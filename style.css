@@ -230,7 +230,7 @@ body {
     .encriptador__muneco {
         width: auto;
         height: 25%;
-        top: 72%;
+        top: 65%;
         right: auto;
         margin: 4%;
         justify-content: center;
@@ -251,12 +251,12 @@ body {
     }
 
     .encriptador__contenido__advertencia {
-        top: 475px;
+        top: 45%;
         left: 10%;
     }
 
     .encriptador__contenido__botones {
-        top: 500px;
+        top: 48%;
         width: 82%;
         padding-bottom: 160px;
         left: 10%;
